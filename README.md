@@ -2,7 +2,7 @@
 
 #### I am currently studying for a master's degree in Data Science at the University of Stavanger
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HGodal&title_color=ffffff&text_color=ffffff&bg_color=45,d86c4e,875391&layout=compact&exclude_repo=EdutainmentVR)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HGodal&hide=TeX&title_color=ffffff&text_color=ffffff&bg_color=45,d86c4e,875391&layout=compact&exclude_repo=EdutainmentVR)](https://github.com/anuraghazra/github-readme-stats)
 
 <sup>
   The stats are generated automatically,
