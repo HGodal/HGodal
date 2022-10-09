@@ -1,6 +1,7 @@
-### Hi, I'm Håvard 👋
+## Hi, I'm Håvard 👋
 
-#### I am currently studying for a master's degree in Data Science at the University of Stavanger
+### I work at Sopra Steria Oslo as a software developer 👨🏼‍💻🔋
+#### I also have a master's degree in Data Science from the University of Stavanger 👨🏼‍🎓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HGodal&hide=TeX&title_color=ffffff&text_color=ffffff&bg_color=45,d86c4e,875391&layout=compact&exclude_repo=EdutainmentVR)](https://github.com/anuraghazra/github-readme-stats)
 
